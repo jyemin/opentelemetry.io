@@ -27,7 +27,7 @@ title: "OpenTelemetry"
     <div class="card bg-secondary">
       <div class="card-body">
         <h4 class="card-title">Integrates With Popular Frameworks and Libraries</h4>
-        <p>MySQL | Redis | Django | Kafka | Jetty | Akka | RabbitMQ | Spring | Flask | net/http | gorilla/mux | WSGI | JDBC | PostgreSQL</p>
+        <p>MySQL | Redis | Django | Kafka | Jetty | Akka | RabbitMQ | Spring | Flask | net/http | gorilla/mux | WSGI | JDBC | MongoDB | PostgreSQL</p>
       </div>
       <div class="card-footer bg-transparent">
         <a class="btn btn-lg btn-secondary" href="https://github.com/open-telemetry">
